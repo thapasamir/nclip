@@ -8,6 +8,7 @@ Clone the repro
 
 ```bash
 git clone https://github.com/thapasamir/nclip
+python3 setup.py
 cd nclip
 sudo python3 main.py
 ```
